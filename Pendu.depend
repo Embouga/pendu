@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575119560 source:c:\users\laurence remond\devc\pendu\gerer_caracteres.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"gerer_caracteres.h"
+
+1575119560 c:\users\laurence remond\devc\pendu\gerer_caracteres.h
+
+1575120260 source:c:\users\laurence remond\devc\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"gerer_caracteres.h"
+
